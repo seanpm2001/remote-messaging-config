@@ -26,13 +26,7 @@
                     "type": "dismiss",
                     "value": ""
                 }
-            },
-            "arrangement": [
-                "title",
-                "image",
-                "description",
-                "buttons"
-            ]
+            }
         }
     ],
     "rules":
