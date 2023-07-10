@@ -1,0 +1,28 @@
+{
+    "version": 3,
+    "messages":
+    [
+        {
+            "id": "promo_example_1",
+            "content":
+            {
+                "messageType": "promo_single_action",
+                "titleText": "This is a title.",
+                "descriptionText": "This is a description of the new feature. *This is bold.* This isn't.",
+                "placeholder": "NewForMacAndWindows",
+                "actionText": "Share",
+                "action":
+                {
+                    "type": "share",
+                    "value": "https://duckduckgo.com/app",
+                    "additionalParameters":
+                    {
+                        "title": "Share Title"
+                    }
+                }
+            }
+        }
+    ],
+    "rules":
+    []
+}
