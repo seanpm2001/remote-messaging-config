@@ -7,8 +7,8 @@
             "content":
             {
                 "messageType": "promo_single_action",
-                "titleText": "Get DuckDuckGo Private Browser\nfor Mac & Windows",
-                "descriptionText": "Visit <b>duckduckgo.com/browser</b> on your desktop computer.",
+                "titleText": "Did you know our free browser is available on Windows & Mac?",
+                "descriptionText": "Visit <b>duckduckgo.com/browser</b>\no your computer to download.",
                 "placeholder": "NewForMacAndWindows",
                 "actionText": "Share",
                 "action":
