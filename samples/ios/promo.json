@@ -7,8 +7,8 @@
             "content":
             {
                 "messageType": "promo_single_action",
-                "titleText": "This is a title.",
-                "descriptionText": "This is a description of the new feature. *This is bold.* This isn't.",
+                "titleText": "Get DuckDuckGo Private Browser\nfor Mac & Windows",
+                "descriptionText": "Visit <b>duckduckgo.com/browser</b> on your desktop computer.",
                 "placeholder": "NewForMacAndWindows",
                 "actionText": "Share",
                 "action":
